@@ -1,0 +1,5 @@
+# <type> <link> <sha256> <path>
+file https://raw.githubusercontent.com/limine-bootloader/limine-protocol/8a888d7ab3b274fad1a357a922e799fc2ff20729/include/limine.h ee9b003fde9a6b9f154ff7213ea1eb8d23582d351614a234114ca4b50096201b kernel/include/boot/limine.h
+file  https://codeberg.org/OSDev/cc-runtime/raw/commit/dae79833b57a01b9fd3e359ee31def69f5ae899b/src/cc-runtime.c 60bb1af4f6541077b736f19bf0f5a22b5dd8a2f3bed0d9d9d89846a33ef24b74 kernel/src/cc-runtime.c
+
+archive https://codeberg.org/OSDev/freestnd-c-hdrs-0bsd/archive/trunk:include.tar.gz 9d55b01a5104a4cec3889daf155b2a8ee36f849f7f10bdcc8e853335035eb6e5 kernel/include/
